@@ -1,0 +1,10 @@
+C:\Users\sait2\source\repos\hw1q6\hw1q6\obj\Debug\hw1q6.csproj.AssemblyReference.cache
+C:\Users\sait2\source\repos\hw1q6\hw1q6\obj\Debug\hw1q6.Form1.resources
+C:\Users\sait2\source\repos\hw1q6\hw1q6\obj\Debug\hw1q6.Properties.Resources.resources
+C:\Users\sait2\source\repos\hw1q6\hw1q6\obj\Debug\hw1q6.csproj.GenerateResource.cache
+C:\Users\sait2\source\repos\hw1q6\hw1q6\obj\Debug\hw1q6.csproj.CoreCompileInputs.cache
+C:\Users\sait2\source\repos\hw1q6\hw1q6\bin\Debug\hw1q6.exe.config
+C:\Users\sait2\source\repos\hw1q6\hw1q6\bin\Debug\hw1q6.exe
+C:\Users\sait2\source\repos\hw1q6\hw1q6\bin\Debug\hw1q6.pdb
+C:\Users\sait2\source\repos\hw1q6\hw1q6\obj\Debug\hw1q6.exe
+C:\Users\sait2\source\repos\hw1q6\hw1q6\obj\Debug\hw1q6.pdb
